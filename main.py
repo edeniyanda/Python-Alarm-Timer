@@ -6,7 +6,7 @@ from func import alarm_timer
 pygame.init()
 
 # Load the audio file
-audio_file = pygame.mixer.Sound('Alarm-Fast-A1.mp3')
+audio_file = pygame.mixer.Sound('Alarm-Fast-A!.mp3')
 
 
 # Collect duration information
